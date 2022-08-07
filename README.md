@@ -10,7 +10,7 @@ The purpose of this file is to analyze various performances of sectors of the st
 Data related to Vanguard ETFs for various sectors
 Data related to the COVID-19 outbreak gathered from the World Health Organization
 
-##File:
+## File:
 Covid-19 Impact on Financial Sectors in the US.ipynb: Jupyter notebook containing the analysis and code. 
 
 Libraries include: matplotlib, pandas, numpy, datetime, pylab, statsmodels, pmdarima, sklearn, math, seaborn, scipy
