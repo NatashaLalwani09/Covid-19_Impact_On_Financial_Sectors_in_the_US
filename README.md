@@ -13,18 +13,7 @@ Data related to the COVID-19 outbreak gathered from the World Health Organizatio
 ##File:
 Covid-19 Impact on Financial Sectors in the US.ipynb: Jupyter notebook containing the analysis and code. 
 
-Libraries include:
-	-matplotlib
-	-pandas
-	-numpy
-	-datetime
-	-pylab
-	-statsmodels
-	-pmdarima
-	-sklearn
-	-math
-	-seaborn
-	-scipy
+Libraries include: matplotlib, pandas, numpy, datetime, pylab, statsmodels, pmdarima, sklearn, math, seaborn, scipy
 
 
 
